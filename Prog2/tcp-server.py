@@ -22,3 +22,5 @@ while True:
         print('Received data:', data)
         data = data.encode()
         client_server.sendall(data)
+    client_server.close()
+    break
