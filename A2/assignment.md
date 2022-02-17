@@ -155,4 +155,4 @@ P20. Suppose you can access the caches in the local DNS servers of your departme
 propose a way to roughly determine the Web servers (outside your department) that are most
 popular among the users in your department? Explain.
 
-- For each unique instance of reaching a web server being cached in the DNS, a record will be maintained. Therefore, the address that is cached the most, is likely to be the most popular.
+- For each unique instance of reaching a web server being cached in the local DNS server, a record will be maintained. Therefore, the address that is cached the most, is likely to be the most popular.
